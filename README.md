@@ -1,0 +1,3 @@
+- Niel Pernelet 
+- 21 Ans
+- 6 Ans d'experience dans le Developpement Web
